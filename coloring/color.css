@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Praise&display=swap');
+div{
+
+ text-align: center;
+    border:2px ;
+    border-style: solid;
+    font-family: 'Press Start 2P', cursive;
+}
+
+body{
+    background-color: chartreuse;
+    background-image: url(https://media.springernature.com/full/springer-cms/rest/v1/img/18893370/v1/height/320);
+    background-size:cover;
+}

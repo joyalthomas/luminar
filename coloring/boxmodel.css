@@ -1,0 +1,28 @@
+.test2{
+
+    border: solid;
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    color: #f0f8ff;
+    position: sticky;
+    top: 10%;
+    right: 0%;
+}
+.fi{
+    position: sticky;
+}
+.m{
+
+    border: 2px;
+    border: solid;
+    
+}
+
+.head{
+    border: #f0f8ff;
+    position: sticky;
+    height: 20px;
+    width: 200px;
+
+}

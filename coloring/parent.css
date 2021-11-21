@@ -1,0 +1,42 @@
+.one{
+
+    border:solid;
+    width: 600px;
+    height: 300px;
+    position: relative;
+    background-color: aqua;
+    display: flex;
+    /*justify-content:space-evenly;*/
+   align-items:center;
+   justify-content: space-around;
+}
+.col{
+    width: 50px;
+    height: 250px;
+    padding: 10px;
+}
+.two{
+    background-color: brown;
+    flex: 1;
+}
+
+.three{
+    background-color: blue;
+    flex: 2;
+}
+.four{
+    background-color: azure;
+    flex: 3;
+}
+.five{
+    background-color: rgb(14, 218, 75);
+    flex: 4;
+}
+
+
+.six{
+    height: 500px;
+    width: 500px;
+    border: solid;
+    border-radius: 50%;  
+}
